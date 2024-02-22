@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to revolutionize the translation process for cinema and streaming content by developing a machine translation system capable of converting English audio into Hebrew subtitles. By leveraging neural machine translation (NMT) and a novel two-layer model, we provide more accurate and contextually relevant translations.
+This project aims to revolutionize the translation process for cinema and streaming content by developing a machine translation system capable of converting English audio into Hebrew subtitles. By leveraging neural machine translation (NMT) and a novel two-layer model
 
 ## Data Collection and Cleaning
 
