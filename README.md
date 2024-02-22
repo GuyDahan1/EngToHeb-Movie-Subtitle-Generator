@@ -58,7 +58,8 @@ Error 2: For issues related to RegexMatchError with Pytube, another Stack Overfl
 
 
 Contributors
+
 Guy Dahan
 Lior Elisberg
 
-[Final Project - Movie Subtitle Generator PDF]([URL_TO_PDF](https://github.com/GuyDahan1/EngToHeb-Movie-Subtitle-Generator/blob/master/Final%20Project%20-%20Movie%20Subtitle%20Generator.pdf)https://github.com/GuyDahan1/EngToHeb-Movie-Subtitle-Generator/blob/master/Final%20Project%20-%20Movie%20Subtitle%20Generator.pdf)
+[Final Project - Movie Subtitle Generator PDF](https://github.com/GuyDahan1/EngToHeb-Movie-Subtitle-Generator/blob/master/Final%20Project%20-%20Movie%20Subtitle%20Generator.pdf)
